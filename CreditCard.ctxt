@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CreditCard
+comment1.params=cardID\ clientName\ issuerBank\ bankAccount\ balanceAmount\ CVC_number\ Interest_rate\ Expiration_date
+comment1.target=CreditCard(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getCVC_number()
+comment3.params=
+comment3.target=double\ getInterest_rate()
+comment4.params=
+comment4.target=java.lang.String\ getExpiration_date()
+comment5.params=
+comment5.target=double\ getCredit_limit()
+comment6.params=
+comment6.target=boolean\ getisgranted()
+comment7.params=Credit_limit\ Grace_period
+comment7.target=void\ setCreditlimit(double,\ int)
+comment8.params=
+comment8.target=void\ cancelCreditCard()
+comment9.params=
+comment9.target=void\ DISPLAY()
+numComments=10
